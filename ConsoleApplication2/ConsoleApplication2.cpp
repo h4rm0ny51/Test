@@ -15,5 +15,6 @@ int main()
     double y = 10;
     cout << "Y = " << y;
     cout << "Я добавил сюда Y ";
+    cout << "Возвращение";
 }
 
