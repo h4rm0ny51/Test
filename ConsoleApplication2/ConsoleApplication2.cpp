@@ -12,6 +12,7 @@ int main()
     double x = 5;
     cout << "X =" << x;
     cout << "Добавил строку";
+    cout << "Вторая строка добавлена";
     double y = 10;
     cout << "Y = " << y;
     cout << "Я добавил сюда Y ";
