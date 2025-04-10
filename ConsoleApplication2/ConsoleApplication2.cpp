@@ -6,7 +6,7 @@ int main()
     cout << "Hello";
 
 
-    cout << "Влад дурак";
+    cout << "Ивенский дурак";
     cout << "Привет";
     cout << "Получилось?";
     double x = 5;
